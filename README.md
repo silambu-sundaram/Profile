@@ -3,7 +3,7 @@
 # Silambarasan SUNDARAVADANAM
 ## Associate Principal Product Engineer
 
-[LinkedIn](https://linkedin.com/in/silambarasan24) | [GitHub](https://github.com/sims24sims)
+[LinkedIn](https://linkedin.com/in/silambarasan24) | [GitHub](https://github.com/silambu-sundaram)
 Email: silambu.sundaram@gmail.com
 Address: 31, First Floor, East End D Main road, 9th Block, Jayanagar, Bangalore - 560069
 
