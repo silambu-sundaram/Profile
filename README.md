@@ -1,9 +1,8 @@
-# Silambarasan SUNDARAVADANAM
-## Associate Principal Product Engineer
+# Silambarasan Sundaravadanam
 
 <p align="center">
   <a href="https://linkedin.com/in/silambarasan24"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sims24sims"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/silambu-sundaram"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="mailto:silambu.sundaram@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -13,7 +12,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Experienced Associate Principal Product Engineer with a proven track record of leading the design, development, and delivery of innovative software solutions. Specialized in building large-scale, cloud-native applications using microservices and serverless architectures. Adept at leveraging cutting-edge technologies to drive digital transformation in fintech, e-commerce, and travel domains.
+Experienced Associate Principal Product Engineer and Full Stack Developer with over 11 years of experience in both backend and frontend development. Proven track record of leading the design, development, and delivery of innovative software solutions. Specialized in building large-scale, cloud-native applications using microservices and serverless architectures. Adept at leveraging cutting-edge technologies to drive digital transformation in fintech, e-commerce, and travel domains.
 
 ## 🛠 Technical Skills
 
@@ -41,17 +40,17 @@ Experienced Associate Principal Product Engineer with a proven track record of l
 ### Associate Principal Product Engineer
 **TEMENOS INDIA PVT LTD., Bangalore** *(February 2022 - Present)*
 
-Key Skills: NodeJS, GoLang, MongoDB, MySQL, AWS, Git, Redis, WorldPay, Radixx
+Key Skills: Javascript, NodeJS, Git, Bash, Selenium Java, Agile methodology
 
 - Led development of Temenos Visualizer, revolutionizing user experience
 - Developed dynamic visualization features for intuitive data interpretation
 - Optimized UI for seamless navigation across multiple devices
 - Collaborated with cross-functional teams to integrate cutting-edge technologies
 
-### Technical Leader | GoLang/NodeJs Developer
+### Technical Leader | Golang/NodeJs Developer
 **ROBOSOFT TECHNOLOGIES PVT LTD., Bangalore** *(December 2020 - January 2022)*
 
-Key Skills: NodeJS, GoLang, MongoDB, MySQL, AWS, Git, Redis, WorldPay, Radixx
+Key Skills: NodeJS, Golang, MongoDB, MySQL, AWS, Git, Redis, WorldPay, Payment gateways, Bash
 
 - Spearheaded development of gobrightline.com, a train booking platform
 - Handled second phase development of thehaloapp.com, a financial application
@@ -59,9 +58,9 @@ Key Skills: NodeJS, GoLang, MongoDB, MySQL, AWS, Git, Redis, WorldPay, Radixx
 ### Senior Software Engineer | Application Infrastructure and Flight Module Lead
 **SHOREBIRD TECHNOLOGIES PVT LTD. (Tripeur), Bangalore** *(August 2016 - December 2020)*
 
-Key Skills: NodeJs, TypeScript, ExpressJs, AWS Lambda, Python, Yii2, MongoDB, Nginx, Redis, Mocha/Chai, Nock
+Key Skills: NodeJs, TypeScript, ExpressJs, AWS Lambda, Python, Yii2, MongoDB, Nginx, Redis, Mocha/Chai, Nock, Active Directory, Bash, Kibana, Kubernetes
 
-- Led development of GSTRecon, an automated airline GST invoice reconciliation tool
+- Led development of GSTRecon, an automated airline Goods and Services Tax (GST) invoice reconciliation tool
 - Designed and implemented comprehensive flight booking engine
 - Developed serverless components for GST reconciliation and payment integration
 - Managed team of developers and QA engineers
@@ -71,7 +70,7 @@ Key Skills: NodeJs, TypeScript, ExpressJs, AWS Lambda, Python, Yii2, MongoDB, Ng
 
 Key Skills: Codeigniter, Angular 2, HTML, CSS, MySQL, Active Directory, Linux Server configuration, Google Map-API
 
-- Redesigned architecture for AAA - New York travel department booking system
+- Redesigned architecture for AAA-New York travel department booking system
 - Developed CorPool, a real-time transport infrastructure platform
 - Created Xofigo Champion's League (XCL), an interactive iPad app for Bayer
 
